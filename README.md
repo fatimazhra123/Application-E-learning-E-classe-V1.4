@@ -1,4 +1,4 @@
-# Application-E-learning-E-classe-V1.📒👨🏻‍🎤👩🏻‍🎤🖊👩🏻‍🏫
+# Application-E-learning-E-classe-V1.4📒👨🏻‍🎤👩🏻‍🎤🖊👩🏻‍🏫
 
 ## Contexte du projet
 Vous êtes un développeur Full Stack, votre équipe a besoin de vous pour faire des tâches en frontend et backend pour le projet E-classe. Ces tâches concernent les histoires utilisateurs suivantes :
