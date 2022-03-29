@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  html,body{
+    background-color: rgb(245, 248, 250);
+   }
+ 
+     
+         .paragraph {
+           transform: translateY(-31Px);
+           margin-left: 44px;
+         }
+     
+         
+         
+     
+         .NavNav {
+           width: 974px;
+           height: 60px;
+           left: 230px;
+         }
+     
+         .imgNave {
+           width: 660px;
+         }
+     
+
+.nav__bar {
+    background-color: #FAFFC1;
+    width: 300px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+    }
+    .form{
+      margin-left: 0px;
+    }
+        .logoo {
+    
+          width: 120px;}
+
+       
+         table{
+           margin-left: 250px;
+         }
+         .logo{
+           width: 120px;
+          
+         }
+
+       
+        .List_ {
+          transform: translateY(30Px);
+          margin-left: 30px;
+          gap: 19px;
+    
+        }
+        .List_ :hover {
+          background-color: #00C1FE
+        }
+    
+      
+

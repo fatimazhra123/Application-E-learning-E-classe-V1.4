@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca:wght@100;300&family=Montserrat:wght@100&family=Roboto:wght@400;500&display=swap");
+:root {
+  --bgc-sign-in: linear-gradient(69.66deg, #00c1fe 19.39%, #faffc1 96.69%);
+  --font-family: "Montserrat", sans-serif;
+}
+
+.login_content{
+  border-radius: 20px;
+  }
+  
+html,body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+body {
+  background: var(--bgc-sign-in);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.card {
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1) !important;
+  border-radius: 20px !important;
+}
+.logo {
+  border-left: 6px solid #00c1fe;
+  margin-left: 20px;
+}
+.btn {
+  background: #00c1fe !important;
+  border: none !important;
+}
+.SINGN-IN{
+  margin-top: 50px;
+}
+
+.List_ :hover {
+  background-color: #00C1FE
+}
+
+.error{
+  background:#F2DEDE ;
+  color:  #A94442;
+  padding: 10px;
+  width:95% ;
+  border-radius: 5px;
+}

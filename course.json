@@ -1,0 +1,30 @@
+[
+    {
+        "Name" :"kawtar",
+        "course_name" :"francais",
+        "duration" :"4",
+        "professeur" :"pr.ahmad",
+        "Date":"05-Jan, 2022"
+    },
+    {
+        "Name" :"amina",
+        "course_name" :"maths",
+        "duration" :"5",
+        "professeur" :"pr.hicham",
+        "Date":"05-Jan, 2022"
+    },
+    {
+        "Name" :"rokia",
+        "course_name" :"englais",
+        "duration" :"2",
+        "professeur" :"pr.3asoud",
+        "Date":"05-Jan, 2022"
+    },
+    {
+        "Name" :"amal",
+        "course_name" :"arabic",
+        "duration" :"3",
+        "professeur" :"pr.sidki",
+        "Date":"05-Jan, 2022"
+    }
+]
